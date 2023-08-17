@@ -1,0 +1,24 @@
+Desktop: GUI [Graphical User Interface] area with set of operations
+	Ex: Windows Desktop, Power BI Desktop, Tableau Desktop etc.
+
+Power BI Desktop: GUI area with set of Power BI Operations
+
+Download: Free / Licence
+
+HW and SW:
+	High level:
+		OS: Windows 8 or above [10 or above  recommended]
+		RAM: Min 2 GB
+		CPU: MIn 2 Ghz
+Download ways:
+	Three ways
+	a) Google it--> advanced download [no account is required, demo practice download]
+	b) Google ir--> Download [account required]
+	c) Power BI Service --> Downlaod [account required, recommended in real-time]
+
+Installation:
+	Click setup.exe-->follow the wizard instructions
+	[mostly next->next->finish]
+
+SYstem Type:
+	Search-->Sysinfo...provides you system details
